@@ -3,7 +3,7 @@
 18.229.162.55 node_ip=18.229.162.55 node_name=meuboot http_proxy="" https_proxy=""
 
 [validators]
-18.229.162.55 node_ip=18.229.162.55 node_name=meuval http_proxy="" https_proxy=""
+18.228.136.182 node_ip=18.228.136.182 node_name=suzyval http_proxy="" https_proxy=""
 
 [writer]
 18.229.162.55 node_ip=18.229.162.55 node_name=meuwriter http_proxy="" https_proxy=""
