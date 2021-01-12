@@ -1,10 +1,12 @@
 # INSTALL
 [bootnodes]
+18.229.162.55 node_ip=18.229.162.55 node_name=awsnogval http_proxy="" https_proxy=""
 
 [validators]
 18.229.162.55 node_ip=18.229.162.55 node_name=awsnogval http_proxy="" https_proxy=""
 
 [writer]
+18.229.162.55 node_ip=18.229.162.55 node_name=awsnogval http_proxy="" https_proxy=""
 
 # UPDATE
 [writer]
