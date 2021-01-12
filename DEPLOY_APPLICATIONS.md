@@ -103,7 +103,7 @@ Type your private key, network address IP node and RPC port in the networks part
             },
             lacchain: {
                 provider: privateKeyProvider,
-                network_id: "648629",
+                network_id: "648630",
                 gasPrice: 0
             }
         }
