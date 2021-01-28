@@ -1,12 +1,12 @@
 # INSTALL
 [bootnodes]
-# <your node address> node_name=<node name>
+# <your node address> node_name=<node name> http_proxy="" https_proxy=""
 
 [validators]
-# <your node address> node_name=<node name>
+# <your node address> node_name=<node name> http_proxy="" https_proxy=""
 
 [writer]
-# <your node address> node_ip=<besu_public_ip> password=<orion password> node_name=<node name> node_email=<your@email> dns_name=<your dns> http_proxy=http://example.proxy.com:8080 https_proxy=https://example.proxy.com:8443
+# <your node address> node_ip=<besu_public_ip> password=<orion password> node_name=<node name> node_email=<your@email> dns_name=<your dns> http_proxy="" https_proxy=""
 
 # UPDATE
 [writer]
@@ -23,6 +23,8 @@
 ######
 
 [all:vars]
+http_proxy=""
+https_proxy=""
 password=default_password
 node_email=default@email
 bootnode=false
